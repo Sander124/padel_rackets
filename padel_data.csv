@@ -1,0 +1,601 @@
+overall,price,name,power,control,rebound,omgang,sweetspot
+88,150,Adipower CTRL 3.2,87,100,75,86,91
+88,195,Adipower Multiweight CTRL 3.3,86,92,84,86,90
+88,,Metalbone 3.4 HRD+,100,97,81,81,81
+88,190,Ignis,92,89,86,87,84
+88,150,Technical Viper,100,91,87,74,86
+88,159,Vertex 04,91,91,84,81,91
+88,239,XPLO 2025 Di Nenno,97,90,81,81,89
+88,170,Speed Pro X,91,96,83,82,86
+88,170,Kenta Pro,81,95,82,91,89
+88,228,King Cobra Black 1K,95,85,95,81,82
+87,122,Adipower 3.2,96,90,87,80,81
+87,,Adipower 3.2,95,90,86,81,81
+87,265,Adipower Multiweight CTRL,84,91,85,84,90
+87,,Adipower Multiweight CTRL 3.4 2025 - Alex Ruiz,85,90,85,85,88
+87,159,Cross It,97,88,82,86,80
+87,,Cross It 3.4,97,91,80,85,81
+87,140,Cross It CTRL,76,90,87,91,91
+87,,Cross It CTRL 3.4,76,89,87,90,91
+87,190,Metalbone 3.1,87,86,100,80,80
+87,190,Metalbone CTRL 3.2,81,87,95,80,90
+87,178,Metalbone HRD+,100,95,80,81,81
+87,240,Multiweight Master LTD,87,91,87,80,90
+87,,Lux 3.0,82,87,94,86,86
+87,,Tenebris,100,92,71,85,87
+87,,Vento,85,89,90,85,87
+87,190,Vento,86,91,89,83,84
+87,,Air Viper,97,84,91,86,76
+87,,Technical Viper,99,91,85,76,86
+87,338,Technical Viper Juan Lebron,99,94,81,76,85
+87,,Technical Viper Juan Lebron,98,96,81,73,87
+87,209,Hack 03,100,94,81,79,80
+87,190,Hack 03,99,96,79,79,80
+87,290,Hack 03 FIP Paquito Navarro,100,94,78,81,82
+87,200,Hack 03 Master Final,98,94,81,81,80
+87,199,Vertex 03,90,90,91,79,84
+87,160,Vertex 03,89,91,90,78,85
+87,,Vertex 03 Francia Limited Edition,91,90,90,80,84
+87,239,Vertex 04 2025 Juan Tello,87,89,83,87,91
+87,230,Conqueror 12,92,93,82,82,87
+87,340,Conqueror Attack,90,92,85,80,86
+87,,Coello Pro,100,99,75,80,80
+87,175,Delta Pro 2022,99,95,86,79,76
+87,168,Extreme Pro,100,95,80,80,79
+87,100,Graphene 360 Alpha Pro,84,91,91,84,85
+87,,Speed One,87,91,76,100,79
+87,329,AT.2 Genius LTD Limited Edition,92,87,73,94,91
+87,169,AT10 Genius 18K,80,86,84,96,91
+87,,AT10 Genius LTD,92,84,73,96,90
+87,169,AT10 Luxury Genius 18K,88,86,73,96,91
+87,130,AT10 Luxury Genius Arena,77,90,85,93,90
+87,299,Ultimate Pro Plus,100,100,75,75,87
+87,,Ultimate Pro Plus,100,96,77,76,85
+87,,RP 790 Whip Woman,61,90,90,96,96
+87,,RP M27 Light LTD,66,96,91,90,90
+87,,RP790 Whip Woman,61,90,91,96,96
+87,,Diablo Revolution Fucsia,81,87,96,87,83
+87,170,SG Copper Edition,86,91,87,85,84
+87,75,Astrum Eris,77,85,95,80,96
+87,180,Basalto Pro,96,92,77,79,89
+87,155,Metheora Dual,92,95,74,82,94
+87,175,Metheora Dual,84,95,82,79,96
+87,85,Raptor,84,99,76,78,97
+87,90,Black Mamba Black Series 1K,76,88,97,86,87
+87,120,Taipan Liquid Edition,76,96,82,91,89
+87,270,Bela LT V2,75,91,85,91,91
+87,265,Bela Pro V2,91,91,79,86,90
+87,,Bela Pro,95,96,75,84,84
+87,290,Blade Pro V3,86,90,80,87,91
+86,122,Adipower 3.1,96,89,86,80,81
+86,150,Adipower CTRL 3.1,84,99,73,84,88
+86,,Adipower Light 3.1,66,83,91,99,91
+86,175,Adipower Light 3.2,66,83,89,99,92
+86,200,Adipower Multiweight,94,85,89,82,80
+86,150,Adipower Multiweight 3.3,94,87,91,80,80
+86,300,Cross It Light Pro EDT 2024 Martita Ortega,84,88,85,86,89
+86,160,Metalbone 3.2,91,86,95,79,79
+86,180,Metalbone 3.3,89,86,95,81,81
+86,,Metalbone 3.4 2025 - Ale Galan,92,86,96,78,78
+86,240,Metalbone CTRL 3.1,80,83,95,79,91
+86,,Metalbone CTRL 3.4,78,87,95,78,92
+86,260,Metalbone HRD 3.1,99,94,81,79,78
+86,190,Metalbone HRD 3.2,100,94,79,80,78
+86,,Metalbone Pro EDT 2024 Ale Galan,91,85,95,78,80
+86,,Blaze,100,90,68,86,84
+86,,Ignis,89,94,78,83,84
+86,190,Tenebris,95,89,73,86,86
+86,,Terra,85,98,72,84,92
+86,180,Terra,89,99,70,86,84
+86,150,Air Viper,93,85,92,84,75
+86,235,Air Viper,96,85,91,83,76
+86,130,Counter Veron,76,91,87,84,91
+86,167,Counter Veron,74,91,86,87,91
+86,256,Counter Viper,81,99,76,83,90
+86,185,Counter Viper,79,100,76,86,91
+86,229,Technical Viper,98,89,84,73,84
+86,161,Technical Viper,99,88,86,74,84
+86,338,Technical Viper Juan Lebron,100,94,80,74,84
+86,130,Piton Premium,87,92,80,86,85
+86,209,Hack 03,100,96,79,78,79
+86,140,Hack 03 Control,81,100,75,89,84
+86,125,Hack 03 Hybrid,87,90,81,87,85
+86,229,Hack 04 2025 Paquito Navarro,99,90,80,83,79
+86,209,Hack 04 Hybrid,87,91,78,87,87
+86,139,Vertex 03 Control,74,97,86,91,83
+86,190,Vertex 03 CTR,74,96,85,91,85
+86,230,Vertex 04 Hybrid,81,90,85,87,89
+86,180,Vertex Hybrid 04,78,91,86,83,91
+86,110,Canyon Pro 1.0,96,92,86,75,80
+86,150,Canyon Pro Attack,97,91,86,76,80
+86,97,Canyon Pro,95,91,85,77,80
+86,120,Conqueror 10 Soft,81,84,99,79,86
+86,95,Conqueror 11,96,97,73,81,83
+86,,Conqueror Attack 1.0,90,89,83,80,86
+86,,Explorer Pro Attack 1.0 2025 Lucas Campagnolo,90,94,84,82,80
+86,125,Explorer Pro Attack,76,95,83,85,90
+86,,Extreme Motion LTD,87,95,82,85,79
+86,,Extreme Pro LTD,98,96,79,78,79
+86,110,Radical Elite,69,97,87,86,90
+86,159,Radical Pro,81,94,79,87,90
+86,,Speed Motion LTD,76,86,92,90,84
+86,160,Speed Pro,84,83,89,87,86
+86,,Speed Pro,84,86,90,87,84
+86,,Gold Pro,96,85,87,81,80
+86,160,AT Luxury Attack 18K,95,89,87,78,80
+86,180,AT10 Genius 12K,91,83,74,95,89
+86,220,AT10 Genius 12K,90,83,74,95,90
+86,,AT10 Genius 18K Alum 2025 Agusti­n Tapia,79,83,84,96,89
+86,220,AT10 Genius Attack 18K Alum,95,92,86,79,79
+86,229,AT10 Luxury Genius 18K,88,84,74,97,89
+86,145,AT10 Luxury Genius Arena,74,91,84,93,90
+86,,AT10 Luxury Genius Arena,69,88,86,93,92
+86,205,AT10 Luxury Genius Attack 18K,96,91,79,79,83
+86,,AT10 Luxury Genius Hard,76,90,86,91,89
+86,115,ML10 Luxury Bahia 12K,82,85,91,85,87
+86,125,ML10 Luxury Bahia,80,86,92,86,85
+86,124,ML10 Pro Cup,81,89,85,83,91
+86,95,ML10 Pro Cup,82,88,83,87,92
+86,113,ML10 Pro Cup Black Edition,78,92,85,85,91
+86,105,ML10 Pro Cup Luxury,86,90,85,85,84
+86,124,ML10 Pro Cup Rough Surface,79,91,86,86,89
+86,,ML10 Pro Cup Rough Surface Edition,79,91,83,87,89
+86,,ML10 Pro Cup Silver,74,90,86,90,92
+86,79,MM2 Pro by Manu Martin,72,86,91,94,85
+86,148,MP10 Luxury,65,89,91,95,89
+86,109,MP10 Luxury,67,88,92,95,90
+86,170,VK10 Future,76,92,79,91,90
+86,190,Ampurias,94,84,84,79,89
+86,158,Mayerit,71,88,91,86,95
+86,,Myrtea Luxury,91,86,86,84,83
+86,,Pure Pro Plus,85,91,73,87,93
+86,150,Sense Pro,79,88,81,84,96
+86,250,Sense Pro,80,89,80,85,94
+86,,Sense Pro Classic Series,82,89,81,83,96
+86,320,Ultimate Pro,95,91,80,76,86
+86,,Ultimate Pro,95,91,82,77,87
+86,310,Ultimate Pro Light,92,90,81,80,85
+86,330,Ultimate Pro Plus,100,96,77,76,83
+86,,Ultimate Pro Smash,85,89,79,91,87
+86,280,Nova Elite Momo,81,96,81,85,88
+86,140,Solar Attack 2023 Momo Gonzalez,81,94,75,90,91
+86,,RP 790 Whip Polietileno,66,92,89,90,95
+86,,RP M27 R Line Control X,74,94,87,86,90
+86,180,RP790 Whip Polietileno,65,90,92,89,94
+86,,Diablo Pro 4,78,85,96,86,85
+86,,Diablo Revolution 12K,79,87,93,86,86
+86,,Diablo Revolution 24K,80,79,100,85,85
+86,,Diablo Revolution 3K,90,91,79,85,84
+86,228,Diablo Revolution II Sanyo Pro,85,85,90,86,86
+86,129,Diablo Revolution II,92,88,81,84,85
+86,138,Diablo Revolution Lite 3,80,85,91,87,85
+86,140,Electra ST2 Hybrid,95,89,80,85,80
+86,,Electra ST4 Pro Stupa,89,88,80,89,86
+86,169,Fenix III Javi Ruiz Pro,94,91,74,84,85
+86,,Pegasus Grafeno Black,81,89,92,83,84
+86,,Pegasus Grafeno Silver,76,88,95,84,87
+86,199,Pegasus GV Edition,81,91,83,90,86
+86,179,Pegasus Revolution 3K,85,86,82,90,85
+86,219,Pegasus Revolution Cube,82,85,88,92,85
+86,139,Spartan Revolution 2,86,92,86,87,79
+86,229,Spyder Lite CTRL 3,78,100,72,87,91
+86,130,Trilogy Control Especial Edition,72,87,91,89,90
+86,,Valkiria Pro,74,85,89,91,90
+86,139,Astrum,78,84,90,81,95
+86,200,Astrum Pro,84,84,85,80,95
+86,124,Basalto,87,85,86,78,92
+86,125,Basalto Osiris,79,85,96,80,90
+86,246,Basalto Pro,93,92,75,80,90
+86,198,Drax Pro Touch,86,84,91,80,87
+86,275,Kenta Colours Pro LTD,80,95,79,85,92
+86,223,Kenta Pro,85,95,76,84,88
+86,100,Metheora,75,90,91,78,94
+86,159,Metheora Dual,79,96,82,79,96
+86,140,Metheora Warrior,74,91,91,81,95
+86,160,Raptor Black Limited Edition,86,95,81,78,90
+86,155,Raptor Evolution,85,96,81,79,89
+86,153,Raptor Pro Touch,81,86,91,81,90
+86,240,Bourne Summum Airflow MY W,100,91,77,84,79
+86,249,Bourne Summum Prisma Airflow W,99,91,76,83,82
+86,,LW Summum Prisma S,82,89,73,89,96
+86,,LW Summum Prisma W,70,84,86,91,97
+86,249,Maxima Summum Prisma Airflow S,91,91,75,91,84
+86,,Maxima Summum Prisma S,93,91,73,86,87
+86,,Black Mamba Radical 12K 2.0,82,83,86,86,91
+86,228,King Cobra Classic Edition,96,79,89,84,82
+86,,Mamba Pro Black,81,85,81,93,89
+86,,Titan Limited Edition,95,83,83,81,87
+86,,Yarara Elite 24K 2.0,81,82,92,84,90
+86,285,Yarara Elite 24K,82,82,88,87,90
+86,,Yarara Pro White,86,86,75,94,91
+86,226,Bela Elite V2.5,79,90,84,84,92
+86,200,Bela Elite,83,89,84,86,86
+86,190,Bela LT V2.5,75,90,85,89,89
+86,115,Bela LT,80,90,84,88,86
+86,178,Bela Pro V2.5,91,85,77,87,91
+86,140,Blade LT V2,68,87,90,94,90
+86,163,Blade Pro V2 Black Neon Green,80,90,87,83,91
+86,299,Cupra V2,79,91,87,85,89
+86,,Cupra,84,89,86,86,84
+86,,Defy Pro V1 2025 Javi Garrido,97,91,79,78,84
+86,,Klopp Elite,86,90,85,84,87
+86,,Pro Staff V2 Azul,65,93,82,95,94
+86,150,Pro Staff V2 Black Ray,66,94,82,93,95
+86,,Ultra LT V2,61,91,84,100,92
+86,145,Ultra Pro V2,74,96,74,95,91
+85,369,Adipower Control Multiweight Pro EDT 2024 Alex Ruiz,59,85,97,95,90
+85,150,Adipower Light 3.3,61,82,96,95,92
+85,245,Adipower Master LTD,64,83,90,98,89
+85,300,Cross It Light,63,86,89,95,91
+85,,Cross It Light 3.4 2025 - Martita Ortega,61,83,94,97,89
+85,175,Metalbone Carbon CTRL,70,85,94,90,85
+85,,Metalbone Carbon CTRL 3.4,69,87,94,88,85
+85,185,Metalbone CTRL 3.3,78,85,95,80,89
+85,,Metalbone Master LTD,91,83,93,79,81
+85,,Armageddon Edition A22 RC,83,93,82,81,86
+85,,Furia A22 RC,79,85,94,81,85
+85,,Oro Furia A22 RC,69,84,89,91,90
+85,,Poseidon A22 RC,68,90,90,88,90
+85,225,Air Viper,94,84,90,85,74
+85,165,Counter Veron,74,90,86,87,88
+85,,Counter Veron,74,90,83,86,92
+85,130,Counter Viper,81,99,74,84,89
+85,,Counter Viper,80,98,74,85,90
+85,120,Technical Veron,89,86,86,76,86
+85,135,Hurricane Pro 2.0,86,84,86,80,89
+85,145,Elite Francia Limited Edition,78,79,95,86,86
+85,180,Elite Woman,85,81,89,85,86
+85,,Elite Woman 2025 Gemma Triay,80,78,95,86,87
+85,135,Flow,62,79,100,99,87
+85,130,Hack 03 CTR,79,100,74,89,85
+85,176,Neuron,74,85,92,85,91
+85,290,Neuron 2025 Fede Chingotto,79,93,78,86,90
+85,,Axion Attack 1.0 2025 Jon Sanz,91,85,78,89,81
+85,240,Canyon Pro 2.0,95,90,84,73,82
+85,,Canyon Pro Control,69,91,81,92,91
+85,90,Canyon Soft,87,86,95,75,80
+85,135,Conqueror 10,95,88,75,81,85
+85,,Legend 4.0,72,90,87,85,91
+85,,X-Drive,69,92,86,85,91
+85,,Galactica,74,90,77,91,91
+85,105,Aerox Carbon,81,87,85,88,85
+85,65,Aerox Carbon,74,84,86,92,91
+85,85,Combat Carbon 9.1,80,91,82,86,86
+85,,Response,92,80,94,74,87
+85,,Response,91,78,91,79,87
+85,143,RSX Carbon,86,92,81,79,85
+85,120,Supra 3K,86,91,82,81,87
+85,80,Supra Carbon,80,87,86,85,87
+85,,Coello Motion,88,94,75,87,80
+85,,Coello Team,89,93,82,81,82
+85,146,Extreme Elite,87,95,83,81,79
+85,180,Extreme Motion,84,95,79,87,78
+85,89,Graphene 360 Alpha Motion,78,87,90,90,81
+85,146,Radical Motion,75,89,79,88,92
+85,139,Speed Motion,73,86,89,91,84
+85,,Speed One X,89,88,74,91,82
+85,150,Gold Pro Amarillo,95,86,83,79,82
+85,200,Gold Pro Rojo,96,84,85,78,80
+85,,Pro Tournament 2.0 Azul-Rojo,81,89,86,84,83
+85,200,Tournament Pro,82,91,86,84,84
+85,,Tournament Pro Amarillo,81,91,86,84,83
+85,,Tournament Pro Rojo,81,89,85,87,85
+85,150,LS Pro,87,89,80,81,87
+85,140,Maxx Flow,85,90,77,83,92
+85,,AT10 Genius Attack 12K Alum,99,90,75,81,79
+85,129,AT10 Luxury Genius Attack 18K,95,88,79,81,83
+85,158,MJ10 Luxury,75,80,97,83,91
+85,138,ML10 Luxury Bahia,79,85,90,86,87
+85,120,ML10 Luxury Shotgun 18K,90,84,83,82,86
+85,139,ML10 Luxury Shotgun,95,85,79,81,86
+85,120,ML10 Luxury Shotgun,96,84,79,81,84
+85,,ML10 Pro Cup,78,90,86,84,88
+85,140,ML10 Pro Cup LTD Limited Edition,85,89,80,84,88
+85,180,ML10 Pro Cup Luxury,87,96,75,85,84
+85,139,ML10 Pro Cup Luxury,84,93,80,84,86
+85,95,ML10 Pro Cup Silver,69,89,91,84,92
+85,180,ML10 Quantum 3K 2025 Miguel Lamperti,81,91,86,84,85
+85,110,Tempo World Padel Tour,68,86,97,87,89
+85,99,Tempo World Padel Tour,75,84,88,87,90
+85,190,VK10 Quantum 3K 2025 Aranzazu Osoro,77,89,85,90,85
+85,160,Ibera,79,84,91,86,83
+85,150,Myrtea Excellence Blue Sea,85,85,87,83,84
+85,150,Myrtea Excellence Earth Green,85,85,85,84,84
+85,75,Hyper Match,82,83,86,80,92
+85,,Pure Tour,70,85,87,84,97
+85,120,Sense Tour,71,86,84,86,97
+85,238,Ultimate Pro,94,89,79,77,86
+85,,Ultimate Pro Plus Classics Series,100,94,75,73,85
+85,125,Solar Attack II CTR,82,89,86,84,84
+85,185,RP 32 Aniversario Hybrid,80,94,76,86,89
+85,,RP 33 Aniversario,76,89,86,85,87
+85,,RP 33 Aniversario Hybrid,82,96,74,85,89
+85,,RP 33 Aniversario Woman,71,92,85,91,86
+85,,RP 790 Whip Hybrid,66,92,81,95,90
+85,,RP M27 Polietileno LTD,69,95,90,83,89
+85,190,RP M27 R-Control,80,97,75,83,88
+85,190,RP M27 R-Control X,73,95,84,83,89
+85,,RP M27 R Line Control,81,97,74,83,90
+85,,Diablo Black,78,90,88,81,86
+85,,Diablo Fucsia 3.0,81,83,86,90,84
+85,,Diablo Grafeno Azul,84,91,79,85,84
+85,,Diablo Luxury 1K,90,91,74,85,86
+85,149,Diablo Revolution II AIR,70,78,93,97,85
+85,159,Diablo Revolution Sanyo Pro 3,81,84,94,84,84
+85,295,Electra PRO ST3,89,94,78,86,80
+85,169,Electra ST1 Stupa,83,92,91,85,75
+85,139,Electra ST2 Stupa Pro,92,90,85,86,73
+85,140,Fenix 3K,87,84,84,85,85
+85,130,Fenix II,96,85,75,85,84
+85,85,Pegasus 1K Limited Edition,82,88,89,83,85
+85,,Pegasus Grafeno 1K Lady,79,88,84,84,89
+85,150,Pegasus Grafeno 1K,84,89,84,84,83
+85,,Pegasus Revolution 12K,76,79,94,89,85
+85,160,Pegasus Revolution 2,91,93,75,83,83
+85,,Platinum Revolution,73,79,98,90,84
+85,,SG Black Limited Edition,80,85,93,83,85
+85,,Spartan Revolution,85,89,85,85,81
+85,,Spyder Revolution 2 Control,71,84,96,85,89
+85,,Spyder Revolution,96,80,85,84,79
+85,170,Trilogy 3 Control,74,91,82,91,89
+85,295,Trilogy 4 Pro,76,89,80,88,90
+85,,Trilogy Hybrid Black,84,81,87,86,86
+85,140,Trilogy II Control 24K Patty Llaguno,72,83,89,90,91
+85,268,Ultra Pro,81,83,89,85,85
+85,80,Aquila Blue Tour Edition,77,81,90,86,89
+85,159,Astrum Soft,74,80,97,80,94
+85,80,Basalto Osiris 2.0 Pro,93,88,77,80,89
+85,154,Basalto Soft,86,84,86,79,91
+85,189,Drax Soft,81,84,96,78,85
+85,63,Dronos Galaxy Speed 2.0,79,79,95,82,89
+85,90,Dronos Speed,79,81,96,80,91
+85,223,Kenta,79,90,80,86,90
+85,223,Kenta Soft,76,89,84,88,90
+85,159,Metheora Pro Touch,74,89,86,81,96
+85,156,Raptor Soft,72,84,96,81,92
+85,280,Triton Pro,100,95,71,77,80
+85,260,Bourne Summum Airflow MY S,90,84,85,85,81
+85,220,Bourne Summum Prisma Airflow S,90,84,85,85,79
+85,,Bourne Summum Prisma Radio S,96,87,85,82,76
+85,260,Bourne Summum Prisma Radio W,99,89,79,81,76
+85,,Bourne Summum Prisma S,99,89,74,81,80
+85,,LW Carbon 8 Prisma Pansy,71,80,85,91,100
+85,156,LW Prisma Carbon 9,71,79,85,89,100
+85,180,LW Prisma Carbon 9 Pansy,66,79,85,94,100
+85,235,LW Summum Prisma Airflow S,74,89,73,95,95
+85,235,LW Summum Prisma Airflow W,68,84,86,94,94
+85,,Maxima Summum Prisma Radio S,96,89,73,86,81
+85,110,Bamboo Liquid Edition,66,87,97,90,86
+85,85,Black Mamba Classic Edition,70,90,95,85,84
+85,100,Black Mamba Liquid Edition,74,87,95,83,84
+85,184,Black Mamba Liquid Edition,74,84,95,86,85
+85,285,King Cobra Elite 24K,91,81,89,78,87
+85,145,King Cobra Liquid Edition,94,78,85,85,82
+85,150,King Cobra Liquid Edition,95,79,87,84,82
+85,450,Titan,94,83,85,78,84
+85,228,Yarara Classic Edition,88,96,73,83,85
+85,100,Yarara Edition Black Series 1K,84,95,73,86,85
+85,110,Yarara Liquid Edition,85,95,74,84,85
+85,350,Yarara Radical 12K,83,86,78,86,92
+85,238,Bela Elite V2,78,89,83,86,88
+85,,Bela LT Rosa,78,89,84,89,85
+85,79,Bela Team,74,85,92,86,86
+85,70,Blade Elite V2,70,84,89,91,90
+85,160,Blade Pro V2 Oro,79,89,84,83,91
+85,180,Blade Tour V2,85,93,74,84,90
+85,,Brito Blade Elite Multicolor,71,85,91,87,90
+85,,Cupra LT V2,54,94,80,99,96
+85,,Defy LS V1,80,89,84,85,85
+85,,Defy V1,84,90,83,81,85
+85,147,Pro Staff Elite V2,60,90,86,93,94
+85,130,Pro Staff LT V2,55,96,78,100,94
+85,150,Pro Staff Tour V2,77,100,68,88,94
+85,74,Ultra Elite V2,65,86,89,96,91
+84,,Adipower Carbon CTRL 3.4,69,90,80,90,91
+84,,Adipower Carbon Light 3.4,64,89,81,95,89
+84,135,Adipower CTRL 3.3,71,89,79,90,90
+84,,Cross It Carbon CTRL 3.4,71,82,91,90,86
+84,175,Metalbone Carbon,84,82,95,79,80
+84,130,Metalbone Carbon 3.3,86,80,94,81,78
+84,,Metalbone Carbon 3.4,84,81,97,79,78
+84,150,Andromeda A22 RC,65,84,89,91,90
+84,,Atlas Edition A22 RC,71,91,79,89,89
+84,,Vega A22 RC,96,90,75,79,78
+84,130,Technical Veron,91,86,83,73,87
+84,165,Technical Veron,89,83,87,76,83
+84,,Technical Veron,88,86,85,73,87
+84,156,Technical Veron Juan Lebron,89,85,83,76,87
+84,,Technical Veron Juan Lebron,89,86,86,76,85
+84,88,Hurricane,76,85,89,80,90
+84,134,Piton,83,92,77,81,85
+84,125,Piton Attack 12K Plus,81,83,92,82,82
+84,150,Piton Attack 15K Power,86,87,90,78,78
+84,135,Piton Attack 16K,80,84,94,80,80
+84,60,Piton Nakano 15K,80,86,83,82,88
+84,190,Special 16K,91,84,87,76,81
+84,195,Elite Woman,79,78,93,87,84
+84,,Flow Brussels Limited Edition,87,81,94,80,79
+84,100,Flow Woman,87,79,95,81,79
+84,160,Flow Woman,75,80,95,86,85
+84,135,Hack 03 Comfort,85,74,97,81,81
+84,,Vertex 04 Woman 2025 Delfi Brea,75,76,95,87,86
+84,159,XPLO Comfort,79,83,90,78,89
+84,,Bronco,68,91,85,83,91
+84,,Canyon Pro Attack 1.0,95,89,83,74,81
+84,210,Explorer Pro 4.0,80,89,75,84,91
+84,120,Legend 3.0,75,89,79,84,92
+84,199,X-Bass,79,87,89,80,84
+84,,Aero Star Pro,95,84,80,81,79
+84,109,Galactica Lite,67,89,85,90,89
+84,140,Galactica Pro,79,88,76,86,90
+84,90,Aerox 7.2 Carbon Reloaded,74,84,86,84,90
+84,143,Aerox Pro Carbon,82,87,84,84,84
+84,295,Mustang 12K,84,81,86,85,86
+84,,Response Woman,79,82,94,79,85
+84,,Spitfire,86,87,84,82,80
+84,,Supra Carbon,79,84,86,84,86
+84,168,Extreme One,90,91,75,90,75
+84,90,Graphene 360 Gamma Motion,73,86,87,89,85
+84,143,Graphene 360 Gamma Pro,80,87,83,86,86
+84,120,Gravity Pro,75,96,85,86,80
+84,,Speed Motion,73,84,88,91,86
+84,,Pro Slam 2.0 Gris-Negro,89,91,86,75,79
+84,,Pro Slam 2.0 Negro-Turquesa,91,90,87,73,81
+84,,Slam Pro,88,90,85,74,82
+84,,Future Control 12K Alum,85,86,75,89,85
+84,190,LA10 Quantum 12K 2025 Leo Augsburger,96,84,82,81,76
+84,109,MJ10 Luxury,74,79,94,86,89
+84,245,Nerbo World Padel Tour,85,86,83,81,85
+84,190,TL10 Quantum 12K  2025 Tino Libaak,84,95,78,85,78
+84,190,VK10 Luxury,76,85,86,88,85
+84,90,Joker Roja 3K,80,79,97,82,80
+84,199,Hyper Match 2.0,73,85,89,81,90
+84,299,Hyper Pro 2.0,84,86,80,81,91
+84,,Hyper Pro Plus 2.0,86,83,80,80,89
+84,220,Sense Tour,72,86,84,85,94
+84,,Ultimate Pro Light,88,88,80,80,86
+84,,Solar Attack CTR,71,83,89,86,90
+84,175,RP 32 Aniversario Polietileno,74,92,83,83,87
+84,,RP 32 Aniversario Woman,85,90,76,84,84
+84,,RP 790 Whip EVA,81,95,69,92,85
+84,,RP America APT,76,89,84,86,84
+84,,RP M27 R-Ace,95,97,70,76,80
+84,178,RP M27 R-Fury,85,97,71,86,80
+84,,RP790 Whip APT Hybrid,68,91,81,89,89
+84,,RP790 Whip,63,87,88,90,91
+84,,Diablo Elite 4,74,84,92,85,85
+84,,Diablo Granph,78,85,90,81,84
+84,,Diablo Mate,79,91,84,78,87
+84,128,Electra Lite ST3,84,86,83,90,77
+84,101,Electra ST2 Control,76,88,83,89,86
+84,149,Fenix 12K,80,82,89,84,86
+84,,Fenix II 3K,86,83,83,83,86
+84,295,Fenix Pro 4,96,92,74,74,82
+84,,Fenix Pro 5,100,91,73,74,81
+84,,Pegasus Luxury,75,90,86,86,85
+84,,Platinum 24K,78,77,98,84,84
+84,120,Raven 18K Control,63,84,96,84,91
+84,159,Spyder Revolution 2 Attack,95,89,82,74,80
+84,110,Aquila Pro,89,85,81,81,85
+84,132,Aquila Pro,91,85,78,80,85
+84,130,Aquila Space Pro 2.0,91,83,81,80,86
+84,180,Basalto Osiris Soft 2.0,84,83,85,79,91
+84,155,Brava Pro,84,85,84,82,86
+84,155,Brava Soft,81,79,97,80,85
+84,129,Dronos Galaxy,85,86,81,81,89
+84,205,Kenta Colours Soft LTD,75,89,83,83,88
+84,150,Kenta Speed,76,85,86,83,90
+84,,Triton,91,89,82,75,81
+84,145,Triton,95,89,82,74,81
+84,148,Triton Pro 2.0,98,96,68,77,80
+84,175,Triton Pro,100,97,71,74,79
+84,280,Triton Pro Touch,95,95,75,75,81
+84,,Bourne Prisma Radio,100,90,71,85,73
+84,150,Bourne Summum Carbon Black,84,80,82,87,85
+84,125,LW Carbon 8 Prisma,69,78,84,91,99
+84,,Maxima Prisma Radio,96,89,69,89,79
+84,240,Maxima Summum Prisma Airflow W,78,84,84,88,85
+84,,Maxima Summum Prisma Radio W,84,86,86,85,81
+84,,Maxima Summum Prisma W,79,83,87,85,86
+84,350,Black Mamba Radical 12K,79,86,86,83,88
+84,230,Diva Elite 3K,65,92,79,89,95
+84,,Diva Elite 3K,64,88,81,89,96
+84,,King Cobra Elite 24K 2.0,89,78,89,80,83
+84,130,Lethal Attack,85,84,95,76,80
+84,80,Lethal Hybrid,73,86,96,82,84
+84,95,Naya Classic Edition,65,85,99,86,86
+84,130,Yarara Liquid Edition,85,93,74,84,85
+84,,Yarara Radical 12K 2.0,83,85,79,83,89
+84,115,Bela Team V2,74,80,89,86,91
+84,200,Blade LS V3,64,77,95,92,90
+84,,Brito Blade Elite Amarillo Negro,69,84,89,85,92
+83,120,Adipower Greenpadel,72,81,85,92,86
+83,240,Stima Energy,68,86,86,85,91
+83,118,Hurricane 2.0,82,75,89,80,91
+83,125,Hurricane Pro,84,84,78,80,89
+83,130,Piton 10,75,84,90,79,85
+83,100,Piton 11,85,89,81,78,84
+83,130,Piton 12,80,89,80,78,86
+83,,Piton 13,76,86,83,85,87
+83,,Piton 9.0 Soft,75,86,92,79,83
+83,154,Piton Air 12K,76,84,83,85,86
+83,,Piton Epic,95,89,75,75,80
+83,99,Special,85,84,92,74,80
+83,,Special Magic,81,83,84,82,85
+83,130,Special Soft,86,86,89,77,79
+83,,Flow Woman 2025 Ale Salazar,74,80,93,85,81
+83,135,Vertex 02 Carbon,82,84,84,79,86
+83,170,Vertex 03 Comfort,74,80,97,81,85
+83,245,Vertex 03 Comfort,75,82,94,81,85
+83,120,Vertex 03 Woman,64,79,96,90,85
+83,170,Vertex 04 Comfort,79,74,96,80,84
+83,150,Vertex 04 Woman,74,77,94,86,85
+83,89,Delta 3.0,70,91,89,81,86
+83,290,Quantum 1.0,90,89,84,73,78
+83,,Quantum 2.0,82,85,96,74,79
+83,199,Quantum,90,90,80,75,81
+83,199,Tacoma,83,90,87,79,78
+83,120,Aero Star,89,81,82,83,80
+83,120,Aero Star,91,79,81,87,79
+83,175,Aero Star Lite,80,77,92,87,80
+83,,Aero Star Pro,93,84,79,79,79
+83,159,Aero Star Pro,94,84,79,80,80
+83,95,Galactica,73,88,77,86,91
+83,100,Galactica Team,63,88,85,86,91
+83,,Galaxy Carbon,72,89,76,90,89
+83,143,Combat Carbon 9.2,75,89,79,88,85
+83,120,RSX Carbon,79,78,96,83,79
+83,138,Spitfire 12K,81,86,86,79,85
+83,,Spitfire,85,86,87,78,79
+83,143,Spitfire,85,85,85,80,80
+83,95,Delta Elite 2022,89,94,78,81,74
+83,115,Delta Motion 2022,84,95,78,84,76
+83,197,Gravity Motion,71,80,90,90,86
+83,170,Gravity Pro,73,94,80,84,85
+83,,Speed Team,72,80,96,84,81
+83,,Tournament Flex Negro-Rojo,70,85,91,85,86
+83,150,MS Pro,96,84,80,74,82
+83,130,PR Control Carbon,74,87,75,91,89
+83,130,Carb-on Flow,74,84,84,83,89
+83,130,Carb-on Hype,89,86,83,75,80
+83,107,Easy Flow,72,76,92,84,92
+83,,Future Hybrid 12K Alum,90,79,76,84,84
+83,245,LA10 Future,90,80,81,81,81
+83,170,Nerbo World Padel Tour,90,84,79,78,86
+83,,Quantum 12K Carbon,93,79,86,79,78
+83,90,Joker Green 3K,78,81,95,80,81
+83,,XCT,96,83,80,75,82
+83,249,Hyper Tour 2.0,80,81,86,78,90
+83,160,Hyper Tour,73,80,90,80,92
+83,,Ultimate Match,81,82,90,74,86
+83,195,Ultimate Tour,84,85,85,77,83
+83,250,Ultimate Tour,86,84,84,74,85
+83,,Ultimate Tour,87,87,83,74,84
+83,,Nova Elite Hybrid,80,84,77,85,88
+83,269,Nova Elite Victoria,92,87,79,74,81
+83,100,Solar Attack PWR II,89,85,91,76,74
+83,,RP790 Whip EVA,78,93,68,89,87
+83,,Black Carbon Revolution 12K,76,81,85,86,85
+83,,Electra Elite 4,83,84,85,91,73
+83,,Genesis Hybrid 12K,75,85,93,80,80
+83,130,Genesis II Lucho Capra Pro,77,84,94,80,79
+83,,Pegasus Oro,74,87,84,86,85
+83,,Spartan Luxury,88,86,81,81,80
+83,159,Trilogy 3 Hybrid,86,86,79,81,84
+83,229,Trilogy 4 Lite Air,64,85,89,88,91
+83,,Tsunami 5.0 24K,70,87,89,81,86
+83,,Valkiria Elite,66,78,90,91,91
+83,135,Aquila Soft,78,78,91,79,87
+83,55,Aquila Space 2.0,80,84,83,81,86
+83,75,Aquila Speed,74,80,96,81,83
+83,,Kraken Pro,91,86,70,81,85
+83,103,Titania,75,79,92,79,91
+83,70,Titania Kepler 2.0,75,81,91,79,91
+83,70,Titania Kepler Speed 2.0,69,77,98,80,92
+83,122,Titania Pro,79,84,80,82,91
+83,65,Titania Speed,71,73,100,81,90
+83,,Triton Pro,100,89,70,76,78
+83,100,Triton Speed 2.0,91,89,83,73,81
+83,178,Triton Speed,88,90,84,75,79
+83,130,Avant Difusor Carbon Black,86,80,84,82,81
+83,,Bourne Carbon 2 Prisma,85,81,85,80,86
